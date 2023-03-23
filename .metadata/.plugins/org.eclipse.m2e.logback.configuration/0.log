@@ -27,3 +27,28 @@
 2023-03-21 21:24:20,987 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-21 21:24:21,050 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-21 21:24:21,054 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
+2023-03-22 21:07:00,532 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-22 21:16:06,597 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:16:06,629 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:16:06,633 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
+2023-03-22 21:27:08,250 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:27:08,268 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:27:08,277 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
+2023-03-22 21:29:01,356 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:29:01,364 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:29:01,369 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
+2023-03-22 21:30:00,965 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:30:00,996 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:30:01,003 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
+2023-03-22 21:30:30,914 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:30:30,919 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:30:30,925 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
+2023-03-22 21:30:45,430 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:30:45,434 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:30:45,439 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
+2023-03-22 21:32:49,934 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:32:49,939 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:32:49,943 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
+2023-03-22 21:36:10,948 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:36:10,983 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:36:10,989 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/daikichiRoutes/daikichiroutes/src/test/resources
